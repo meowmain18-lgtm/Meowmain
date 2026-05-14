@@ -27,7 +27,7 @@ function App() {
       id: 4,
       name: 'Interactive Automatic Rolling Ball',
       features: 'Self-Moving & Boredom Relief',
-      link: 'https://s.click.aliexpress.com/e/_EQ25mPC',
+      link: 'https://s.click.aliexpress.com/e/_EworslM',
       image: '/HTB1excYckWE3KVjSZSyq6xocXXab.jpg_960x960q75.jpg_.avif',
     },
   ];
