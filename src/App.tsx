@@ -35,7 +35,7 @@ function App() {
       name: 'Fashion Adjustable Bell Collars',
       features: 'High-quality, safe, and comfortable adjustable collars with a bell',
       link: 'https://s.click.aliexpress.com/e/_EG3HhQS',
-      image: '/S0a7eb5b9669f41449da5495fb2843407I.jpg_960x960q75.jpg_.avif',
+      image: '/S58dfe9615db74946b6fdd4221061369c4.jpg',
     },
   ];
 
