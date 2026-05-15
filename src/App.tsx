@@ -30,6 +30,13 @@ function App() {
       link: 'https://s.click.aliexpress.com/e/_EworslM',
       image: '/HTB1excYckWE3KVjSZSyq6xocXXab.jpg_960x960q75.jpg_.avif',
     },
+    {
+      id: 5,
+      name: 'Fashion Adjustable Bell Collars',
+      features: 'High-quality, safe, and comfortable adjustable collars with a bell',
+      link: 'https://s.click.aliexpress.com/e/_EG3HhQS',
+      image: '/S0a7eb5b9669f41449da5495fb2843407I.jpg_960x960q75.jpg_.avif',
+    },
   ];
 
   return (
@@ -110,7 +117,7 @@ function App() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-8">
             {products.map((product) => (
               <a
                 key={product.id}
